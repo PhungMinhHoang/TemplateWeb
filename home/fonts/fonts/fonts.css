@@ -1,0 +1,113 @@
+/*
+  Author: Nguyen Thanh Huy
+  Contact: nguyenthanhhuy.nth@gmail.com
+*/
+@font-face {
+    font-family: 'Work Sans';
+    src: url('TPBNeoSans.ttf') format('truetype'),
+         url('TPBNeoSans.ttf') format('svg'),
+         url('TPBNeoSans.ttf') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url('TPBNeoSans_Bold.ttf') format('truetype'),
+         url('TPBNeoSans_Bold.ttf') format('svg'),
+         url('TPBNeoSans_Bold.ttf') format('embedded-opentype');
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url('TPBNeoSans_Italic.ttf') format('truetype'),
+         url('TPBNeoSans_Italic.ttf') format('svg'),
+         url('TPBNeoSans_Italic.ttf') format('embedded-opentype');
+    font-style: italic;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('TPBNeoSans_Bold_Italic.ttf') format('truetype'),
+         url('TPBNeoSans_Bold_Italic.ttf') format('svg'),
+         url('TPBNeoSans_Bold_Italic.ttf') format('embedded-opentype');
+    font-style: italic;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('TPBNeoSans.ttf') format('truetype'),
+         url('TPBNeoSans.ttf') format('svg'),
+         url('TPBNeoSans.ttf') format('embedded-opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('TPBNeoSans.ttf') format('truetype'),
+         url('TPBNeoSans.ttf') format('svg'),
+         url('TPBNeoSans.ttf') format('embedded-opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('TPBNeoSans_Bold.ttf') format('truetype'),
+         url('TPBNeoSans_Bold.ttf') format('svg'),
+         url('TPBNeoSans_Bold.ttf') format('embedded-opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('TPBNeoSans_Bold.ttf') format('truetype'),
+         url('TPBNeoSans_Bold.ttf') format('svg'),
+         url('TPBNeoSans_Bold.ttf') format('embedded-opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('TPBNeoSans_Italic.ttf') format('truetype'),
+         url('TPBNeoSans_Italic.ttf') format('svg'),
+         url('TPBNeoSans_Italic.ttf') format('embedded-opentype');
+    font-style: italic;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('TPBNeoSans_Italic.ttf') format('truetype'),
+         url('TPBNeoSans_Italic.ttf') format('svg'),
+         url('TPBNeoSans_Italic.ttf') format('embedded-opentype');
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('TPBNeoSans_Bold_Italic.ttf') format('truetype'),
+         url('TPBNeoSans_Bold_Italic.ttf') format('svg'),
+         url('TPBNeoSans_Bold_Italic.ttf') format('embedded-opentype');
+    font-style: italic;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('TPBNeoSans_Bold_Italic.ttf') format('truetype'),
+         url('TPBNeoSans_Bold_Italic.ttf') format('svg'),
+         url('TPBNeoSans_Bold_Italic.ttf') format('embedded-opentype');
+    font-style: italic;
+    font-weight: 700;
+}
+
+
